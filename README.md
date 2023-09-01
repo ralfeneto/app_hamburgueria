@@ -1,8 +1,7 @@
 # app_hamburgueria
 Desenvolver um app de vendas para uma lanchonete. Você ficou com a parte de
 desenvolver a interface do cliente para retirada do produto.
-A lanchonete possui seguinte tabela de produtos listados com sua descrição,
-códigos e valores:
+A lanchonete possui seguinte tabela de produtos listados com sua descrição, códigos e valores:
 Código Descrição Valor(R$)
 100 Cachorro-Quente 9,00
 101 Cachorro-Quente Duplo 11,00
